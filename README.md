@@ -34,10 +34,6 @@ I'm a Computer Engineering student who loves **backend development, PHP, MySQL, 
 
 A PHP and MySQL application focused on authentication, database management, and laboratory workflows for the fuel and oil industry.
 
-### 🖥️ [MimOptic](https://github.com/Mehdi-Habibi81/MimOptic)
-
-A web application project that I'm preparing to showcase as part of my developer portfolio.
-
 ---
 
 ## 🔭 Currently Working On
